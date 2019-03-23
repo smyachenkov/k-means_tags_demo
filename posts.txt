@@ -1,0 +1,6 @@
+{italy,food}
+{food,italy}
+{food}
+{italy,architecture}
+{architecture,italy}
+{architecture}
